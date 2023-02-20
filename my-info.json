@@ -1,8 +1,8 @@
 [
     {
-        "favColour" : ["Purple", "Black", "Navy Blue"],
-        "countryToVisit" : "Melbourne",
-        "populationOfCountry" : 50000078,
-        "favFood" : ["Spaghetti", "Pizza", "Pho"]
+        "fav_colour" : ["Purple", "Black", "Navy Blue"],
+        "country_to_visit" : "Melbourne",
+        "population_of_country" : 50000078,
+        "fav_food" : ["Spaghetti", "Pizza", "Pho"]
     }
 ]
