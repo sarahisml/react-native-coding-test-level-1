@@ -2,6 +2,7 @@
     {
         "favColour" : ["Purple", "Black", "Navy Blue"],
         "countryToVisit" : "Melbourne",
-        "populationOfCountry" : 50000078
+        "populationOfCountry" : 50000078,
+        "favFood" : ["Spaghetti", "Pizza", "Pho"]
     }
 ]
